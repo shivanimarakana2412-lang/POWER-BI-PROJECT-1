@@ -62,7 +62,7 @@ Merge Sales data with Employee data using Region.
 
 ~ 9. Grouping & Aggregation :
 
-Use group by with advance opation ->sum of total Amount column name : Total Sales , average of total Amount column name : Average Order Value and count rows column name : Transaction Count  :- Table : Apr_Sales_data
+Use group by with advance option ->sum of total Amount column name : Total Sales , average of total Amount column name : Average Order Value and count rows column name : Transaction Count  :- Table : Apr_Sales_data
 
 
 ~ 10. Data Profiling & Quality :
