@@ -43,7 +43,7 @@ Create Fiscal Month column using : Add Column → Date → Month in - Table : Ap
 
 ~ 6. Conditional Columns & Indexing :
 
-Conditional Column -> Create a Sales Category column -> by using formulas - Table : Append_Three_month_data
+Conditional Column -> Create a Sales Category column -> by using formulas - Table : Product_from_web
 
 Add 0 based index - Table : Append_Three_month_data
 
